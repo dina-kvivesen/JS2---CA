@@ -1,7 +1,7 @@
 # JS2---Course Assignment
 
 Brief
-Use the Strapi API (found here). The login details for admin section are in the README file in the repo.
+Use the Strapi API found here ( https://github.com/NoroffFEU/strapi-js2-ca ). The login details for admin section are in the README file in the repo.
 You can add and edit content in the Strapi project but do not edit the content type(s) (don’t add, edit or delete fields). The markers will use the same version of the API found in the repo.
 
 Choosing appropriate variable and function names will form part of your assessment, as will proper and consistent formatting of your code.
